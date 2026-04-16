@@ -37,4 +37,14 @@
 2. Скриншот статуса балансировщика и целевой группы.
 3. Скриншот страницы, которая открылась при запросе IP-адреса балансировщика.
 
+<img width="1920" height="633" alt="cloud" src="https://github.com/user-attachments/assets/cf357241-07c9-4778-8fcc-e3ad34dce877" />
    
+<img width="1920" height="703" alt="balancer" src="https://github.com/user-attachments/assets/8878c934-7d57-4af5-90f6-d6895352e100" />
+
+Запущен, но не работает, помогите разобраться:
+<img width="1910" height="944" alt="balancer(2)" src="https://github.com/user-attachments/assets/5acd8580-a22a-4f85-b339-b4f655e67157" />
+
+Nginx установлен, проверка:
+<img width="1034" height="783" alt="nginx test" src="https://github.com/user-attachments/assets/11780d85-4ad8-4dd8-9e2c-9ff579782767" />
+
+<img width="1917" height="827" alt="nginx test (2)" src="https://github.com/user-attachments/assets/989840a5-a6aa-4cc9-b9d3-32a11fc93903" />
